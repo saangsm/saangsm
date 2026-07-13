@@ -1,0 +1,6 @@
+{
+  "name": "SaanGSM",
+  "description": "Marketplace kamili ya huduma za GSM (IMEI, Server, na Rental) kwa mafundi wa simu Tanzania.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
